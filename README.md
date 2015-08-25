@@ -3,10 +3,10 @@ Capture screenshots of URLs using Xvfb deployed in Amazon EC2
 
 #Requirements
 
-`Imagemagick
+Imagemagick
 Xvfb
 Firefox
-GTK+ and Firefox (https://gist.github.com/joekiller/4144838)`
+GTK+ and Firefox (https://gist.github.com/joekiller/4144838)
 
 #How to use
 
