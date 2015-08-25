@@ -10,7 +10,7 @@ GTK+ and Firefox (https://gist.github.com/joekiller/4144838)
 
 #How to use
 
-`./screenshot.sh url.txt`
+```./screenshot.sh url.txt```
 
 url.txt -> Contains list of URLs line by line
 
